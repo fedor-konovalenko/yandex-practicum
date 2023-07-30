@@ -1,4 +1,5 @@
 .ipynb_checkpoints/
 *.csv
 *.joblib
-*catboost*
+ML для предсказания спроса на такси/catboost_info/
+ML для предсказания цены автомобиля/catboost_info/
