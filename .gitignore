@@ -1,7 +1,7 @@
 .ipynb_checkpoints/
 *.csv
 *.joblib
-ML для предсказания спроса на такси/catboost_info/
-ML для предсказания цены автомобиля/catboost_info/
+предсказание спроса на такси/catboost_info/
+прогнозирование цены автомобиля/catboost_info/
 *.pkl
 sprint_17/
