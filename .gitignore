@@ -2,6 +2,7 @@
 *.csv
 !example.csv
 *.joblib
-предсказание спроса на такси/catboost_info/
-прогнозирование цены автомобиля/catboost_info/
+taxi_timeseries/catboost_info/
+car_price_prediction/catboost_info/
+final_project/catboost_info/
 *.pkl
